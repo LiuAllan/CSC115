@@ -1,0 +1,6 @@
+public class Node
+{
+	public T element;
+	public Node next;
+	
+}
